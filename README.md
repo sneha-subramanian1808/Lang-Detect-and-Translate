@@ -8,3 +8,12 @@ For this reason, it was needed to build a language translator and also a detecto
 ## Dataset
 The dataset used for this project, Language_Detection, comprises 15+ languages and
 comprises 10,000+ entries. This dataset was obtained from kaggle.
+
+## Implementation
+
+Detecting the Languages:
+![image](https://user-images.githubusercontent.com/98036669/189943742-f7aa4182-0b9c-4316-9410-93b3342b0f9c.png)
+
+Translation:
+![image](https://user-images.githubusercontent.com/98036669/189944468-c0f5872b-b6b6-40e5-88fd-fe6fdbbe79f5.png)
+![image](https://user-images.githubusercontent.com/98036669/189944616-298c6675-a507-406f-b3f0-b7d779f16ec6.png)
